@@ -1,0 +1,110 @@
+  1           0 LOAD_CONST               0 (0)
+              2 LOAD_CONST               1 (None)
+              4 IMPORT_NAME              0 (time)
+              6 STORE_NAME               0 (time)
+
+  3           8 LOAD_CONST               2 (<code object nop at 0x7ff97d682ea0, file "pin.py", line 3>)
+             10 LOAD_CONST               3 ('nop')
+             12 MAKE_FUNCTION            0
+             14 STORE_NAME               1 (nop)
+
+  7          16 LOAD_NAME                2 (input)
+             18 LOAD_CONST               4 ('Entrez le code pin: ')
+             20 CALL_FUNCTION            1
+             22 STORE_NAME               3 (pin)
+
+  8          24 LOAD_NAME                4 (len)
+             26 LOAD_NAME                3 (pin)
+             28 CALL_FUNCTION            1
+             30 LOAD_CONST               5 (4)
+             32 COMPARE_OP               3 (!=)
+             34 POP_JUMP_IF_TRUE        44
+             36 LOAD_NAME                3 (pin)
+             38 LOAD_METHOD              5 (isdigit)
+             40 CALL_METHOD              0
+             42 POP_JUMP_IF_TRUE        50
+
+  9     >>   44 LOAD_NAME                1 (nop)
+             46 CALL_FUNCTION            0
+             48 POP_TOP
+
+ 11     >>   50 LOAD_NAME                6 (int)
+             52 LOAD_NAME                3 (pin)
+             54 LOAD_CONST               0 (0)
+             56 BINARY_SUBSCR
+             58 CALL_FUNCTION            1
+             60 LOAD_CONST               6 (5)
+             62 BINARY_XOR
+             64 LOAD_CONST               7 (3)
+             66 COMPARE_OP               3 (!=)
+             68 POP_JUMP_IF_FALSE       76
+
+ 12          70 LOAD_NAME                1 (nop)
+             72 CALL_FUNCTION            0
+             74 POP_TOP
+
+ 13     >>   76 LOAD_NAME                6 (int)
+             78 LOAD_NAME                3 (pin)
+             80 LOAD_CONST               8 (1)
+             82 BINARY_SUBSCR
+             84 CALL_FUNCTION            1
+             86 LOAD_CONST               7 (3)
+             88 BINARY_XOR
+             90 LOAD_CONST               6 (5)
+             92 COMPARE_OP               3 (!=)
+             94 POP_JUMP_IF_FALSE      102
+
+ 14          96 LOAD_NAME                1 (nop)
+             98 CALL_FUNCTION            0
+            100 POP_TOP
+
+ 15     >>  102 LOAD_NAME                6 (int)
+            104 LOAD_NAME                3 (pin)
+            106 LOAD_CONST               9 (2)
+            108 BINARY_SUBSCR
+            110 CALL_FUNCTION            1
+            112 LOAD_CONST              10 (8)
+            114 BINARY_XOR
+            116 LOAD_CONST               8 (1)
+            118 COMPARE_OP               3 (!=)
+            120 POP_JUMP_IF_FALSE      128
+
+ 16         122 LOAD_NAME                1 (nop)
+            124 CALL_FUNCTION            0
+            126 POP_TOP
+
+ 17     >>  128 LOAD_NAME                6 (int)
+            130 LOAD_NAME                3 (pin)
+            132 LOAD_CONST               7 (3)
+            134 BINARY_SUBSCR
+            136 CALL_FUNCTION            1
+            138 LOAD_CONST               7 (3)
+            140 BINARY_ADD
+            142 LOAD_CONST               5 (4)
+            144 COMPARE_OP               3 (!=)
+            146 POP_JUMP_IF_FALSE      154
+
+ 18         148 LOAD_NAME                1 (nop)
+            150 CALL_FUNCTION            0
+            152 POP_TOP
+
+ 19     >>  154 LOAD_NAME                7 (print)
+            156 LOAD_CONST              11 ('Féliciations! Vous pouvez valider avec le flag DVC{pin}')
+            158 CALL_FUNCTION            1
+            160 POP_TOP
+            162 LOAD_CONST               1 (None)
+            164 RETURN_VALUE
+
+Disassembly of <code object nop at 0x7ff97d682ea0, file "pin.py", line 3>:
+  4           0 LOAD_GLOBAL              0 (print)
+              2 LOAD_CONST               1 ('Nop!')
+              4 CALL_FUNCTION            1
+              6 POP_TOP
+
+  5           8 LOAD_GLOBAL              1 (exit)
+             10 LOAD_CONST               2 (1)
+             12 CALL_FUNCTION            1
+             14 POP_TOP
+             16 LOAD_CONST               0 (None)
+             18 RETURN_VALUE
+None

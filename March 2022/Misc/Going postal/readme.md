@@ -27,7 +27,13 @@ When we upload the file on the website, we can see there is a .7z file in backgr
 ![image](https://user-images.githubusercontent.com/91023285/158197207-b068b87c-4453-4a44-ae7c-cfcc425a18f0.png)
 We download them but this .7z file is locked with password...
 
-So now, we have to find this password. 
+So now, we have to find this password.  
+We can try to do a bruteforce attack... But after multiple tests any technique works.  
+And earlier we found infos ! We can test with theses infos : "62", "78475110", "V3K4N64r00", "6278475110V3K4N64r00"...  
+The good password is : **6278475110V3K4N64r00**  
+We can dezip the 7z file and analyze extract datas. The folders names contain 4 digits and 40 numbers (0 or 1) who make a big binary.  
+
+But what can you do with these folders names ? Convert in hexa ? Build an image ? Range them in ascending order ?  
 
 
 

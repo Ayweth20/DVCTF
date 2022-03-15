@@ -8,7 +8,7 @@
 To solve this challenge you need to decrypt the message.  
 With the title chall, we quickly find that the encryption use is ROT13.   
 
-So when go on this website ([rot13.com](https://rot13.com/) and copy/paste the encrypted message, the flag is decrypted.    
+So when we go on this website ([rot13.com](https://rot13.com/)) and copy/paste the encrypted message, the flag is decrypted.    
 
 <details>
   <summary>:triangular_flag_on_post: FLAG</summary>

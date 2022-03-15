@@ -43,7 +43,10 @@ I decided to range the binary in create date order. So at the end we have this :
   ```
 </details>
 
-And the last step is to build an image with this big datas block. The website who do that is this one : [Dcode - Convert Binary in Image](https://www.dcode.fr/image-binaire) 
+And the last step is to build an image with this big datas block. The website who do that is this one : [Dcode - Convert Binary in Image](https://www.dcode.fr/image-binaire)  
+After generating the image we just need to find a tool who can "read" the *Data Matrix barcode* :  
+![image](https://user-images.githubusercontent.com/91023285/158325296-1b54ef03-be7f-461f-85d3-ffaabef681a2.png)  
+With some searches, we found this website [Aspose](https://products.aspose.app/barcode/fr/recognize/datamatrix#) and after this image analyse, the flag is displayed.
 
 <details>
   <summary>:triangular_flag_on_post: FLAG</summary>

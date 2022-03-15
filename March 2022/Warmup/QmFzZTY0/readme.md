@@ -2,7 +2,8 @@
 **Category:** Cryptography - **Points:** 500 (at the beginning) then 10 (at the end) - **Solves:** 640  
 **Description:** We found this message : can you decipher it? `qiPGS{3apElcg1ba_1f_r4fl}`  
 
-**Infos:**    
+**Infos:**
+> A .txt file is provided (file.txt)  
 
 **Solution:**  
 To solve this challenge you need to decrypt the message.  

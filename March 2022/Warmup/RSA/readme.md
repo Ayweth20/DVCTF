@@ -14,8 +14,7 @@ ct = 0x268D7D5F5593EA30F536635B58585620B51D2D143AFE4734635C259278D61413D0C89678E
 **Solution:**  
 To solve this challenge you need to decrypt the message.  
 So to try to decrypt the hidden message, I decide to use this site : [dCode - RSA](https://www.dcode.fr/rsa-cipher)  
-After we put the infos in the valid place, we received a list of numbers...  
-`100118678470123102108521039599861127251114116518811695988695828352125`  
+After we put the infos in the valid place, we received a list of numbers : `100118678470123102108521039599861127251114116518811695988695828352125`  
 ![image](https://user-images.githubusercontent.com/91023285/158364540-95b312ee-61c2-449e-b9f3-714f0eb33e07.png)
 Personally, I don't reconize what's the encryption type. So I use this ([dCode - Recognize Cipher](https://www.dcode.fr/identification-chiffrement)) to find the cipher method.  
 Some tests later, we find that ASCII encryption. We can now decrypt the message with this website : [dCode - ASCII Code](https://www.dcode.fr/code-ascii).  

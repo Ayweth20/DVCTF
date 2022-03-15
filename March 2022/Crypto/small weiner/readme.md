@@ -1,4 +1,4 @@
-### RSA
+### small weiner
 **Category:** Cryptography - **Points:** 500 (at the beginning) then 355 (at the end) - **Difficulty:** Easy - **Solves:** 72  
 **Description:** Someone I hate sent me an insulting message using RSA. Can you retrieve his private key?   
 **Hint:** Flag format: dvCTF{d} with d in decimal (base 10)  

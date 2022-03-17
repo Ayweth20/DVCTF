@@ -8,22 +8,22 @@
   - [ICMP](./Stega/ICMP/) 
   - [Treasure](./Stega/Treasure/) 
 - Reverse
-  - [Mine Game](./Reverse/post_office/) 
-  - [Obfuscated](./Reverse/art_gallery/) 
-  - [Peripheral Interface Controller XVI](./Reverse/post_office/) 
-  - [CryptoVault](./Reverse/art_gallery/) 
+  - [Mine Game](./Reverse/Mine%20Game/) 
+  - [Obfuscated](./Reverse/Obfuscated/) 
+  - [Peripheral Interface Controller XVI](./Reverse/Peripheral%20Interface%20Controller%20XVI/) 
+  - [CryptoVault](./Reverse/CryptoVault/) 
 - Misc
-  - [DataLeak](./Misc/flipping_tables/)
-  - [Going postal](./Misc/z340/)
-  - [The HackerMan](./Misc/the_more_the_less/)
+  - [DataLeak](./Misc/DataLeak/)
+  - [Going postal](./Misc/Going%20postal/)
+  - [The HackerMan](./Misc/The%20HackerMan/)
 - Programming
-  - [Sudoku](./Programming/kanagawa/) 
-  - [TicTacToe](./Programming/format_me/) 
+  - [Sudoku](./Programming/Sudoku/) 
+  - [TicTacToe](./Programming/TicTacToe/) 
   - [Heaven's Gate](./Programming/quotebook/) 
 - Crypto
-  - [small weiner](./Crypto/rocca_pia/) 
-  - [Secure Or Not Secure](./Crypto/crackme/) 
-  - [Cwryptographic Owacle](./Crypto/cryptex/) 
+  - [small weiner](./Crypto/small%20weiner/) 
+  - [Secure Or Not Secure](./Crypto/Secure%20Or%20Not%20Secure/) 
+  - [Cwryptographic Owacle](./Crypto/Cwryptographic%20Owacle/) 
 - Web
   - [CyberStreaks v1.0](./Web/pidieff/) 
   - [🎵](./Web/read/) 
@@ -32,19 +32,19 @@
   - [DaVinci's Playlist Part 2](./Pentest/all_aboard/)
   - [DaVinci's Playlist Part 2.5](./Pentest/all_aboard/) 
 - OSINT
-  - [Monkeey](./OSINT/korean_digipad/) 
-  - [Elon Musk](./OSINT/numbers/)
-  - [Painting spot](./OSINT/korean_digipad/) 
-  - [Welcome to the DaVinciCTF!](./OSINT/numbers/) 
+  - [Monkeey](./OSINT/Monkeey/) 
+  - [Elon Musk](./OSINT/Elon%20Musk/)
+  - [Painting spot](./OSINT/Painting%20spot/) 
+  - [Welcome to the DaVinciCTF!](./OSINT/Welcome%20to%20the%20DaVinciCTF!/) 
 - Forensic
-  - [Very Bad Script](./Forensic/korean_digipad/) 
+  - [Very Bad Script](./Forensic/Very%20Ba%20Script/) 
 - Warmup
-  - [Welcome](./Warmup/korean_digipad/) 
-  - [FrenchFlag](./Warmup/numbers/)
-  - [EBG13](./Warmup/korean_digipad/) 
-  - [QmFzZTY0](./Warmup/numbers/)
-  - [MP3](./Warmup/korean_digipad/) 
-  - [RSA](./Warmup/numbers/) 
+  - [Welcome](./Warmup/Welcome/) 
+  - [FrenchFlag](./Warmup/FrenchFlag/)
+  - [EBG13](./Warmup/EBG13/) 
+  - [QmFzZTY0](./Warmup/QmFzZTY0/)
+  - [MP3](./Warmup/MP3/) 
+  - [RSA](./Warmup/RSA/) 
 
 ## Flag format
 dvCTF{printable_ASCII_chars}

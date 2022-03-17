@@ -4,9 +4,9 @@
 
 ## List of challenges
 - Stega
-  - [The Arts of Details](./Stega/The%20Arts%20of%20Details/) 
-  - [ICMP](./Stega/ICMP/) 
-  - [Treasure](./Stega/Treasure/) 
+  - [The Arts of Details](./Steganography/The%20Arts%20of%20Details/) 
+  - [ICMP](./Steganography/ICMP/) 
+  - [Treasure](./Steganography/Treasure/) 
 - Reverse
   - [Mine Game](./Reverse/Mine%20Game/) 
   - [Obfuscated](./Reverse/Obfuscated/) 

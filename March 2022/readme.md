@@ -1,6 +1,6 @@
 # dvCTF 2022
 
-<img src="https://user-images.githubusercontent.com/91023285/158800301-27f9b278-b6e5-4fa2-bddc-7fb71cfad2a6.png" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/91023285/158800301-27f9b278-b6e5-4fa2-bddc-7fb71cfad2a6.png" alt="drawing" width="300"/>
 
 ## List of challenges
 - Web

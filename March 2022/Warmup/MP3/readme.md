@@ -6,12 +6,16 @@
 > A .mp3 file is provided (MP3.mp3)  
 
 **Solution:**  
-    
+To solve this challenge, you need to analyze the audio of the .mp3 file.  
+To hear the flag you need to reverse the audio with Audacity.  
+Now you can hear something, but it's not very clear...  
+So to fix this problem you need to slow down the audio.  
+With concentration and a little bit guessing, you can find the flag.
 
 <details>
   <summary>:triangular_flag_on_post: FLAG</summary>
 
   ```
-  dvCTF{}
+  dvCTF{r3v3rs3_mp3}
   ```
 </details>

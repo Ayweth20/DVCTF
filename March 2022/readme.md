@@ -13,7 +13,7 @@
   - [Peripheral Interface Controller XVI](./Reverse/Peripheral%20Interface%20Controller%20XVI/) 
   - [CryptoVault](./Reverse/CryptoVault/) 
 - Misc
-  - [DataLeak](./Misc/DataLeak/)
+  - [DataLeak](./Misc/Data%20Leak/)
   - [Going postal](./Misc/Going%20postal/)
   - [The HackerMan](./Misc/The%20HackerMan/)
 - Programming

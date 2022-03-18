@@ -36,8 +36,8 @@
   - [Elon Musk](./OSINT/Elon%20Musk/)
   - [Painting spot](./OSINT/Painting%20spot/) 
   - [Welcome to the DaVinciCTF!](./OSINT/Welcome%20to%20the%20DaVinciCTF!/) 
-- Forensic
-  - [Very Bad Script](./Forensic/Very%20Bad%20Script/) 
+- Forensics
+  - [Very Bad Script](./Forensics/Very%20Bad%20Script/) 
 - Warmup
   - [Welcome](./Warmup/Welcome/) 
   - [FrenchFlag](./Warmup/FrenchFlag/)

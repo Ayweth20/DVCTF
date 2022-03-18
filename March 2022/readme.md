@@ -28,9 +28,9 @@
   - [CyberStreaks v1.0](./Web/CyberStreak%20v1.0/) 
   - [🎵](./Web/🎵/) 
 - Pentest
-  - [DaVinci's Playlist Part 1](./Pentest/janus/) 
-  - [DaVinci's Playlist Part 2](./Pentest/all_aboard/)
-  - [DaVinci's Playlist Part 2.5](./Pentest/all_aboard/) 
+  - [DaVinci's Playlist Part 1](./Pentest/DaVinci's%20Playlist%20Part%201/) 
+  - [DaVinci's Playlist Part 2](./Pentest/DaVinci's%20Playlist%20Part%202/)
+  - [DaVinci's Playlist Part 2.5](./Pentest/DaVinci's%20Playlist%20Part%202.5/) 
 - OSINT
   - [Monkeey](./OSINT/Monkeey/) 
   - [Elon Musk](./OSINT/Elon%20Musk/)

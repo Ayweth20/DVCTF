@@ -25,7 +25,7 @@
   - [Secure Or Not Secure](./Crypto/Secure%20Or%20Not%20Secure/) 
   - [Cwryptographic Owacle](./Crypto/Cwryptographic%20Owacle/) 
 - Web
-  - [CyberStreaks v1.0](./Web/pidieff/) 
+  - [CyberStreaks v1.0](./Web/CyberStreak%20v1.0/) 
   - [🎵](./Web/read/) 
 - Pentest
   - [DaVinci's Playlist Part 1](./Pentest/janus/) 

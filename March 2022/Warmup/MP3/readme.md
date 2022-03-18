@@ -9,7 +9,7 @@
 To solve this challenge, you need to analyze the audio of the .mp3 file.  
 To hear the flag you need to reverse the audio with Audacity.  
 Now you can hear something, but it's not very clear...  
-So to fix this problem you need to slow down the audio.  
+So to fix this problem you need to slow down the audio (about -50%).  
 With concentration and a little bit guessing, you can find the flag.
 
 <details>

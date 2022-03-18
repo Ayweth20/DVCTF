@@ -26,7 +26,7 @@
   - [Cwryptographic Owacle](./Crypto/Cwryptographic%20Owacle/) 
 - Web
   - [CyberStreaks v1.0](./Web/CyberStreak%20v1.0/) 
-  - [🎵](./Web/read/) 
+  - [🎵](./Web/🎵/) 
 - Pentest
   - [DaVinci's Playlist Part 1](./Pentest/janus/) 
   - [DaVinci's Playlist Part 2](./Pentest/all_aboard/)

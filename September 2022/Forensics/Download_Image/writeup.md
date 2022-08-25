@@ -14,15 +14,17 @@ Si nous allons au paquet 17, nous pouvons voir qu'il y a bien le code hexa d'une
 En allant au paquet 696, nous pouvons retrouver le bloc *Portable Network Graphics* contenant toute l'image :  
 ![image](https://user-images.githubusercontent.com/91023285/186723870-a49b32e7-07b1-4d2a-b981-d11e8a808e7c.png)  
 
-Soit 
+Pour reconstituer l'image, il y a 2 possibilités :  
+- Soit faire un clic-droit sur le bloc *Portable Network Graphics* > *Export Packets Bytes* et enregistrer en file.png :  
+![image](https://user-images.githubusercontent.com/91023285/186749751-6e59e555-4ae7-4743-b806-ccf53d1fd57d.png)  
 
-
-
+- Soit on fait tout simplement : File > Export Objects... > HTTP et on clique sur l'image pour la voir ou l'enregistrer :  
+![image](https://user-images.githubusercontent.com/91023285/186750036-996fe74c-ce7a-4a1c-9702-462b85c81743.png)  
   
 <details>
   <summary>:triangular_flag_on_post: FLAG</summary>
 
   ```
-  DVC{flag}
+  DVC{PC4P_DowNl04d}
   ```
 </details>

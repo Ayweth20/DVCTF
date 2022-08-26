@@ -1,4 +1,16 @@
 ### Where is my flag ?
-**Category:** Forensics - **Difficulty:** Easy    
+**Category:** Forensics - **Difficulty:** Medium    
 **Description:**  
-You need to find the FLAG hidden in a .png file among all the folders
+You need to find the other file in the image  
+
+**Solution:**  
+Pour résoudre ce challenge, 
+
+  
+<details>
+  <summary>:triangular_flag_on_post: FLAG</summary>
+
+  ```
+  DVC{PC4P_DowNl04d}
+  ```
+</details>

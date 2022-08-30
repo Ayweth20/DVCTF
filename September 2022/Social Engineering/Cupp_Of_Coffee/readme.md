@@ -36,7 +36,7 @@ Pour ce faire, nous allons utiliser l'outil *Cupp*, donné en indice dans le tit
 ![image](https://user-images.githubusercontent.com/91023285/187502808-62a64bd0-e156-4e80-a0e9-56899b8b17db.png)  
 
 (Pour avoir d'avantages de mot de passes, il vaut mieux mettre *Yes* à toutes les options de la fin).  
-Avec cette liste (d'environ 45k) de mot de passe, nous allons donc passer à la troisième et dernière étape : Le crackage de la clé WiFi.  
+Avec cette liste (d'environ 45k de mots de passe), nous allons donc passer à la troisième et dernière étape : Le crackage de la clé WiFi.  
 
 Afin de faire cela, nous pouvons utiliser l'outil *aircrack-ng* sur le fichier *.cap*.  
 Avec la commande `aircrack-ng gaspar-01.cap -w gaspar.txt` le mot de passe est trouvé en 10 secondes :  
